@@ -1,6 +1,6 @@
 ## Hello, my name is Rafaela Abrahão. I'm an Information Systems student at UFF
 
-I'm passionate about Machine Learning, Data Science, and software development.
+- I'm passionate about Machine Learning, Data Science, and Software Development.
 
 <div align="center">
   <a href="https://github.com/RafaelaAbrahao">
