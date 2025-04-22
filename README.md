@@ -15,7 +15,7 @@ I'm passionate about Machine Learning, Data Science, and software development.
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Psyaiai" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1136107517227847691/1364321886145740922/psyaiai-removebg-preview.png?ex=68093f45&is=6807edc5&hm=712ef5bc926b4326c437e5da33665de5d107f90d20438b2cda074ce72d69086b&=&format=webp&quality=lossless&width=551&height=367">
+  <img align="right" alt="Psyaiai" width ="auto" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1136107517227847691/1364321886145740922/psyaiai-removebg-preview.png?ex=68093f45&is=6807edc5&hm=712ef5bc926b4326c437e5da33665de5d107f90d20438b2cda074ce72d69086b&=&format=webp&quality=lossless&width=551&height=367">
 
   
 </div>
