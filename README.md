@@ -1,6 +1,7 @@
-## Hello, my name is Rafaela Abrahão. I'm an Information Systems student at UFF
+## Hello, I'm Rafaela Abrahão 👋
+### Java Software Developer | Full-stack
 
-- I'm passionate about Software Development.
+I am a developer and an Information Systems student at UFF, focusing on building web applications. I work on both the **back-end**, using **Java with Spring Boot**, and the **front-end** with **JavaScript, HTML, and CSS**.
 
 <div align="center">
   <a href="https://github.com/RafaelaAbrahao">
@@ -9,6 +10,7 @@
 </div>
 <div style="display: inline_block; text-align: center;"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
