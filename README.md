@@ -1,7 +1,7 @@
 # Hello, I'm Rafaela Abrahão 👋
 ### Full Stack Developer | C# .NET & React
 
-I am a developer at Globo and an Information Systems student at UFF, passionate about building web applications. I work across the entire stack, focusing on **back-end** development with **C#** and **.NET**, and building dynamic **front-end** interfaces with **React**.
+I am a software developer intern at Globo and an Information Systems student at UFF, passionate about building web applications. I work across the entire stack, focusing on **back-end** development with **C#** and **.NET**, and building dynamic **front-end** interfaces with **React**.
 
 ## 🛠️ Technologies & Tools
 
